@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Linux user
   description: I use arch btw
-  type: Uczen
   skill: brak
+  type: uczen
   artwork: {fileID: 21300000, guid: df6ef6e337a394842b0ffed342319a1f, type: 3}
   row: {fileID: 21300000, guid: 24b0f224b18316e42be084b72e8ff903, type: 3}
   attack: 7
