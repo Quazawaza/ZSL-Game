@@ -9,6 +9,8 @@ public class CardCreator : MonoBehaviour {
 
     public Text nameText;
     public Text descriptionText;
+    public Text skillText;
+    public Text typeText;
 
     public Image artworkImage;
     public Image rowImage;
