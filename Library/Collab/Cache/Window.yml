@@ -14,8 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+<<<<<<< HEAD
     - 
     m_Values: 01
+=======
+    - Assets/Data/prefabs/Card.prefab
+    - Assets/Scripts/Card.cs
+    - Assets/Scripts/CardCreator.cs
+    - 
+    m_Values: 00000000
+>>>>>>> 4380795da494f554c2cfc7bdb9e8f95443c6816d
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
