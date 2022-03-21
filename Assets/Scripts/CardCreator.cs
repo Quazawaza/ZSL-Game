@@ -7,28 +7,36 @@ public class CardCreator : MonoBehaviour {
 
     public Card card;
 
-    public Text nameText;
-    public Text descriptionText;
-    public Text skillText;
-    public Text typeText;
+    public Text title;
+    public Text description;
+    // public Text skill;
+    // public Text type;
 
-    public Image artworkImage;
-    public Image rowImage;
+    public Image artwork;
+    public Image row;
 
-    public Text attackText;
+    public Text attack;
 
     // Start is called before the first frame update
-    void Start() {
-        nameText.text = card.name;
-        descriptionText.text = card.description;
+    private void Start() {
+        LoadCard(card);
+    }
+    
+    public void LoadCard(Card card) {
+        if(card == null) {
+            return;
+        }
+        this.card = card;
 
-        artworkImage.sprite = card.artwork;
-        rowImage.sprite = card.row;
+        title.text = card.title;
+        description.text = card.description;
+        // skill.text = card.skill;
+        // type.text = card.type;
 
-        attackText.text = card.attack.ToString();
+        artwork.sprite = card.artwork;
+        row.sprite = card.row;
 
+        attack.text = card.attack.ToString();
         card.Print();
     }
-
-
 }
