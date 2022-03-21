@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 94f058fd1ca95114290ec74f9af4fe6b, type: 3}
-  m_Name: LinuxUser
+  m_Name: Klucz
   m_EditorClassIdentifier: 
-  name: Linux user
-  description: I use arch btw
-  skill: brak
-  type: uczen
-  artwork: {fileID: 21300000, guid: df6ef6e337a394842b0ffed342319a1f, type: 3}
+  name: Klucz
+  description: LasToZaMalo
+  type: Nauczyciel
+  skill: "Zniszcz najsilniejsz\u0105 kart\u0119 w przeciwnym rz\u0119dzie je\u015Bli
+    suma punkt\xF3w si\u0142y kart w tym rz\u0119dzie wynosi 10 lub wi\u0119cej."
+  artwork: {fileID: 21300000, guid: 126e55f9f011d3f488a0eb81309d11bb, type: 3}
   row: {fileID: 21300000, guid: 24b0f224b18316e42be084b72e8ff903, type: 3}
   attack: 7

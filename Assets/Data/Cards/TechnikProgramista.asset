@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 94f058fd1ca95114290ec74f9af4fe6b, type: 3}
-  m_Name: BiednyPierdolonyLaczniak
+  m_Name: TechnikProgramista
   m_EditorClassIdentifier: 
-  name: BiednyLaczniak
-  description: "Ten biedny pierwszoklasista nie mog\u0105cy znale\u017A\u0107 sali."
-  skill: brak
-  type: uczen
-  artwork: {fileID: 21300000, guid: 72831476a16c8b04c8ab2557ad71c05e, type: 3}
-  row: {fileID: 21300000, guid: 4bad6f8a18f69ef40852e342d1ae98d9, type: 3}
-  attack: 2
+  name: Programista
+  description: "Z pozoru zwyk\u0142y kalkulator. ALE z dost\u0119pem do internetu.
+    I maturka napisana na 100%."
+  type: "Ucze\u0144"
+  skill: none
+  artwork: {fileID: 21300000, guid: b5dcc6e1f3bdf634bb7af3f2029a8589, type: 3}
+  row: {fileID: 21300000, guid: 58b6107a4fe2cce46863dddba397ed87, type: 3}
+  attack: 7
