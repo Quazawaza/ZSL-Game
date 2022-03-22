@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 94f058fd1ca95114290ec74f9af4fe6b, type: 3}
-  m_Name: WindowsUser
+  m_Name: Kepka
   m_EditorClassIdentifier: 
-  name: Windows user
-  description: Macie to w Linuxie?
-  skill: brak
-  type: uczen
-  artwork: {fileID: 21300000, guid: 1280bd006b93db449ae59038e43b2c8b, type: 3}
-  row: {fileID: 21300000, guid: 24b0f224b18316e42be084b72e8ff903, type: 3}
-  attack: 6
+  name: Kepka
+  description: "oja wiedza jest du\u017Co wy\u017Csza ni\u017C zak\u0142ada program
+    nauczania."
+  type: Nauczyciel
+  skill: none
+  artwork: {fileID: 21300000, guid: aec81b364c65b954ab455dcd34ba1fe6, type: 3}
+  row: {fileID: 21300000, guid: d3a258d70989a2643bc6a133fedfce03, type: 3}
+  attack: 1

@@ -14,10 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - "Assets/Artwork/Arts/BiednyPierdolony\u0141\u0105czniak/biednyPierdolonyLaczniak.png.meta"
-    - Assets/Card.cs
+    - "Assets/Artwork/Arts/CierpieniaM\u0142odegoWertera.meta"
+    - "Assets/Artwork/Arts/\u017BabkaEnjoyer.meta"
+    - Assets/Scenes/SampleScene.unity
     - 
-    m_Values: 000000
+    m_Values: 00000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
